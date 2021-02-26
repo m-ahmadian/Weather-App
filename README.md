@@ -1,4 +1,4 @@
-# Weather API
+# Weather App
 
 ## Overview
 
@@ -19,7 +19,7 @@ Assignment for: Seneca College - iOS Mobile Application Development course
 
 ## Resources
 
-Geobytes API: <https://geobytes.com/>
+Geobytes API: <https://geobytes.com/>  
 Weather API: <https://openweathermap.org/api>
 
 
@@ -32,7 +32,7 @@ static let apiKey = "Enter API Key Here"
 ```
 
 ## Contributing
-Feel free to contribute to **Weather API**. Fork and clone this repository, then make a pull request once you have pushed your changes.
+Feel free to contribute to **Weather App**. Fork and clone this repository, then make a pull request once you have pushed your changes.
 
 
 ## Maintainers
@@ -40,4 +40,4 @@ m-ahmadian
 
 
 ## License
-**Weather API** is available under the [MIT License](https://github.com/m-ahmadian/Weather-App/blob/master/LICENSE).
+**Weather App** is available under the [MIT License](https://github.com/m-ahmadian/Weather-App/blob/master/LICENSE).
